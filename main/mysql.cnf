@@ -1,0 +1,6 @@
+[client]
+database = cherry_coster
+user = koushik
+password = ThisisallM!
+default-character-set = utf8
+host = 
